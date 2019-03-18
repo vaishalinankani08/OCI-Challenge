@@ -8,7 +8,7 @@ categories: oracle cloud infrastructure
 
 About the Challenge
 ---
-![useful image]({{ site.url }}/Images/OKE.png)
+
 
 This challenge is to verify your ability to create IaaS resources such as
 * A managed Kubernetes Service
@@ -19,6 +19,9 @@ This challenge is to verify your ability to create IaaS resources such as
 --------------------------------
 
 ## About OKE 
+
+![Oracle Kubernetes](https://docs.oracle.com/en/cloud/iaas/container-cloud/sp_common/shared-images/cloudgs_occs.png)
+
 * [Oracle Kubernetes Engine](https://cloud.oracle.com/containers/kubernetes-engine)
 
 ## What will we Verify here : 

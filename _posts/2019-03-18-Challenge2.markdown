@@ -8,9 +8,6 @@ categories: oracle cloud infrastructure
 
 About the Challenge
 ---
-
-![useful image]({{ site.url }}/Images/DevCS.png)
-
 This challenge is to verify your ability to create a PaaS service like Developer Cloud Service 
 * Ability to import a Github repo
 * Add teammates to your project and give them read-only access
@@ -19,6 +16,7 @@ This challenge is to verify your ability to create a PaaS service like Developer
 
 
 ## About Oracle Developer Cloud Service 
+![Developer Cloud Service](https://docs.oracle.com/en/cloud/paas/developer-cloud/sp_common/shared-images/cloudgs_developer.png)
 * [Developer Cloud Service](https://cloud.oracle.com/developer_service)
 
 ## Where are the repositories:
@@ -26,7 +24,7 @@ This challenge is to verify your ability to create a PaaS service like Developer
 * [API/Backend](https://github.com/vamsiramakrishnan/ora-se-symposium-backend)
 
 ## What about the Database
-* The Database is a MongoDB Database which does not need to have any data on it. The application automatically configures it. 
+* The Database is a **<u>MongoDB</u>** Database which does not need to have any data on it. The application automatically configures it. 
 
 ## About the repositories
 * The OCI Challenge is a simple 3 Tier, Cloud Native Application built as a Social Experience Application for 
