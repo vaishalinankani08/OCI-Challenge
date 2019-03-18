@@ -16,10 +16,10 @@
 title: OCI Challenge
 email: vamsi.ramakrishnanl@oracle.com
 description: Homepage for understanding everything about the Oracle Cloud Infrastructure Challenge 
-baseurl: "/Instructions" # the subpath of your site, e.g. /blog
+baseurl: # the subpath of your site, e.g. /blog
 url: "vamsiramakrishnan.github.io/ocichallenge" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: mrvemzi
+github_username:  vamsiramakrishnan
 
 # Build settings
 markdown: kramdown
