@@ -1,0 +1,82 @@
+---
+layout: post
+title:  "Challenge-4 - Prepare Cluster for Deployment and Install the Database layer"
+date:   2019-03-18 20:09:02 +0530
+categories: oracle cloud infrastructure
+---
+
+About this challenge
+---
+
+![useful image]({{ site.url }}/Images/Helm.png)
+This challenge is to verify your ability to 
+* Use Helm 
+* Deploy a MongoDB StatefulSet Chart
+* Create a HA Mongo DB cluster
+
+---
+
+## About Helm
+* Helm helps you manage Kubernetes applications — Helm Charts help you define, install, and upgrade even the most complex Kubernetes application.
+* Use this link to understand more about Helm [Helm](https://helm.sh/)
+
+## Why this challenge:
+* You setup the Deployment Environment ( OKE )
+* You moved the repos to the Development Environment ( DevCS )
+* You setup the CI/CD pipeline on Wercker / Oracle Container Pipeline
+* Prepare the k8s Cluster and install MongoDB-HA
+
+## How do I get started with Helm
+* If you have setup the Kubernetes Cluster successfully, The Server Side of Helm ( Tiller ) comes pre-installed in OKE
+
+### To setup the Client Side of Helm, 
+* Setup chocolatey on your `Windows` laptop. For `Mac and Linux` Skip this step
+* Install Chocolatey by running this on PowerShell as an admin
+    ~~~~~~~ powershell
+    @"%SystemRoot%\System32\WindowsPowerShell\v1.0\powershell.exe" -NoProfile -InputFormat None -ExecutionPolicy Bypass -Command "iex ((New-Object System.Net.WebClient).DownloadString('https://chocolatey.org/install.ps1'))" && SET "PATH=%PATH%;%ALLUSERSPROFILE%\chocolatey\bin"
+    ~~~~~~~
+
+* Setup Kubernetes-cli by running this command
+
+    ~~~~~~~~~ powershell
+    choco install kubernetes-cli
+    ~~~~~~~~~
+
+* Copy the `KUBECONFIG` file to the required location
+* Setup Helm Client by running this command
+
+    ~~~~~~~~~ powershell
+    choco install kubernetes-helm
+    ~~~~~~~~~
+
+* Run 
+
+    ~~~~~~~~~ powershell
+    helm init 
+    ~~~~~~~~~
+* If Helm is successfully setup without errors you are now free to deploy the MongoDB Chart
+
+## Deploy MongoDB-HA
+
+### Create namespace
+
+    kubectl create namespace <Your FirstName>
+
+### Deploy code
+    
+    helm repo add stable https://kubernetes-charts.storage.googleapis.com/
+    helm install --name <Your LastName> --namespace <Your FirstName> stable/mongodb-replicaset
+
+## What will we Verify here : 
+* Have you successfully deployed the Mongo-DB Cluster using helm status
+* Verify if all Pods are in running state and verify connectivity from within the cluster in MongoDB
+
+## Submission Format: 
+* A Write Up with 5 Bullet points not exceeding 50 words in each point, about the `learnings while **deploying on Kubernetes**` using `**helm**`. 
+* Send your Email with 
+  * `Subject Line: OCI Challenge-4`  **< Your Name >**
+  * `Email Recepients:` **[Vamsi](mailto:vamsi.ramakrishnan@oracle.com) && [Laksh](mailto:lakshmikanth.vasudevamurthy@oracle.com)**
+
+## Show me the tutorials 
+* [Further Reading ](https://kubernetes.io/blog/2017/01/running-mongodb-on-kubernetes-with-statefulsets/)
+

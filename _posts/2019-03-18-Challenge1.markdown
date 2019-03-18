@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "Challenge 1"
+title:  "Challenge-1 - Spin up an OKE Cluster "
 date:   2019-03-18 20:09:02 +0530
 categories: oracle cloud infrastructure
 ---
 
 
-Challenge-1 - Spin up an OKE Cluster 
+About the Challenge
 ---
 ![useful image]({{ site.url }}/Images/OKE.png)
 

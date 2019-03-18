@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "Challenge 2"
+title:  "Challenge-2 - Move the public Github Repos to OCI - Developer Cloud Service"
 date:   2019-03-18 20:09:02 +0530
 categories: oracle cloud infrastructure
 ---
 
 
-Challenge-2 - Move the public Github Repos to OCI - Developer Cloud Service
+About the Challenge
 ---
 
 ![useful image]({{ site.url }}/Images/DevCS.png)
@@ -48,9 +48,9 @@ This challenge is to verify your ability to create a PaaS service like Developer
 ## Submission Format: 
 * A Write Up with 5 Bullet points not exceeding 50 words in each point, about the `Key Differentiation factors` of `Oracle Developer Cloud Service`
 * Send your Email with 
-  * `Subject Line: OCI Challenge-2`  **< Your Name >**
+  * `Subject Line: OCI Challenge-2 | < Your Name >`
   * `Email Recepients:` **[Vamsi](mailto:vamsi.ramakrishnan@oracle.com) && [Laksh](mailto:lakshmikanth.vasudevamurthy@oracle.com)**
-* Provide `Read-Only Access` to 
+* Provide `Read-Only Access` for your Developer Cloud Service Git Repos in
   * Vamsi : vamsi.ramakrishnan@oracle.com**
   * Laksh : lakshmikanth.vasudevamurthy@oracle.com**
 
