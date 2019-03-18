@@ -8,6 +8,9 @@ categories: oracle cloud infrastructure
 
 What is the OCI Challenge
 --------------------------
+
+![useful image]({{ site.url }}/Images/oci_image.jpg)
+
 A challenge that will test your ability to 
 * Architect solutions on OCI - Oracle Cloud Infrastructure.
 * The Challenges are Sequential and are intended to be completed one after the other. 

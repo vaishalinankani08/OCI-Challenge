@@ -6,8 +6,10 @@ categories: oracle cloud infrastructure
 ---
 
 
-Challenge-1
+Challenge-1 - Spin up an OKE Cluster 
 ---
+![useful image]({{ site.url }}/Images/OKE.png)
+
 This challenge is to verify your ability to create IaaS resources such as
 * A managed Kubernetes Service
 * Create Network & Firewall policies if required
@@ -16,17 +18,15 @@ This challenge is to verify your ability to create IaaS resources such as
 
 --------------------------------
 
-## Spin up an OKE Cluster 
-
-### About OKE 
+## About OKE 
 * [Oracle Kubernetes Engine](https://cloud.oracle.com/containers/kubernetes-engine)
 
-### What will we Verify here : ###
+## What will we Verify here : 
 * Have you created a `separate compartment`, and a `user-group` and `user`  with privileges and `policies` to work in only that compartment ?
 >  Why ? Because we don't want you messing with other people's work and vice versa
 * Spin up the Kubernetes Cluster in the compartment with the User ID 
 
-### Submission format: ###
+## Submission format: 
 * The `KUBECONFIG` File 
 * The credentials of the User created in the `Oracle Cloud Account` in a password protected Zip file
 * A Write Up with 5 Bullet points not exceeding 50 words in each point, about the Key Differentiation factors of Oracle Kubernetes engine over AKS and EKS
@@ -34,6 +34,6 @@ This challenge is to verify your ability to create IaaS resources such as
   * `Subject Line: OCI Challenge-1`  **< Your Name >**
   * `Email Recepients:` **[Vamsi](mailto:vamsi.ramakrishnan@oracle.com) && [Laksh](mailto:lakshmikanth.vasudevamurthy@oracle.com)**
 
-### Show me the Tutorials: ###
+## Show me the Tutorials: 
 * [Setup an Oracle Kubernetes Cluster](https://www.oracle.com/webfolder/technetwork/tutorials/obe/oci/oke-full/index.html)
 

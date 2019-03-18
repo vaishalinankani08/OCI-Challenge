@@ -5,45 +5,45 @@ date:   2019-03-18 20:09:02 +0530
 categories: oracle cloud infrastructure
 ---
 
-Challenge-3
+Challenge-3 - Create Wercker / Oracle Container Pipeline Environment
+---
+
+![useful image]({{ site.url }}/Images/Wercker.png)
 This challenge is to verify your ability to use a Cloud Native service like Wercker to
 * Import Applications
 * Create Team members with access privileges
 * Configure Workflows, Pipelines and Steps
+
 ---
 
--------------------
-
-## Create Wercker / Oracle Container Pipeline Environment
-
-### About Wercker/Oracle Container Pipelines 
+## About Wercker/Oracle Container Pipelines 
 * [Oracle Container Pipelines/ Wercker](https://cloud.oracle.com/en_US/containers/pipelines)
 
-### Why this challenge:
+## Why this challenge:
 * You setup the Deployment Environment ( OKE )
 * You moved the repos to the Development Environment ( DevCS )
 * You will setup the CI/CD pipeline on Wercker / Oracle Container Pipeline in this challenge
 
-### How do I get started with Wercker
+## How do I get started with Wercker
 * Here is a detailed tutorial about how to [get started](https://medium.com/jsonlovesyaml/ci-cd-simplified-with-wercker-kubernetes-on-oracle-cloud-infrastructure-a2332497d36f) with Wercker
 
-### About the steps
+## About the steps
 * If you checkout your Repos `ora-se-symposium-front-end` and `ora-se-symposium-backend` you will see a `Wercker.yml` file which has the CI/CD Pipeline defined in it. 
 * Make sure you create these two applications within Wercker
 * You would have to give your `Oracle Cloud ID` to associate it with `Developer Cloud Service` where your repositories reside
 
-### What will we Verify here : 
+## What will we Verify here : 
 * Have you setup the Build and Deployment Pipeline as described in the `Wercker.yml` file
-* Provide Read-Only Access to 
+* Provide Read-Only Access to as Team members
   * **Vamsi : vamsi.ramakrishnan@oracle.com**
   * **Laksh : lakshmikanth.vasudevamurthy@oracle.com**
 
-### Submission Format: 
+## Submission Format: 
 * A Write Up with 5 Bullet points not exceeding 50 words in each point, about the `Key Differentiation factors` of `Oracle Container Pipeline/Wercker`
 * Send your Email with 
-  * `Subject Line: OCI Challenge-1`  **< Your Name >**
+  * `Subject Line: OCI Challenge-3`  **< Your Name >**
   * `Email Recepients:` **[Vamsi](mailto:vamsi.ramakrishnan@oracle.com) && [Laksh](mailto:lakshmikanth.vasudevamurthy@oracle.com)**
 
-### Show me the tutorials 
-* [Getting Started with DevCS](https://docs.oracle.com/en/cloud/paas/developer-cloud/index.html)
+## Show me the tutorials 
+* [Getting Started with Wercker/Oracle Container Pipelines](https://devcenter.wercker.com/introductions/)
 
