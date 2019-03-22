@@ -24,7 +24,7 @@ linkedin_username: vamsiramakrishnan
 header_pages:
   - about.md
   - index.md
-  - viewing.md
+  - videos.md
 
 # Build settings
 markdown: kramdown

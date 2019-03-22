@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Viewing
-permalink: /viewing/
+title: Videos
+permalink: /videos/
 ---
 
 # About OCI
