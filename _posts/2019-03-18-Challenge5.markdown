@@ -57,9 +57,27 @@ This challenge is to verify your ability to
 
 ## How do I get started with this challenges
 ### Setup Pre-requisites
+----
+* Install Postman, a debugging tool that allows you to send API requests from your laptop
+* Get started with [Postman](https://www.getpostman.com/downloads/) 
+
 #### Setup Object Storage
+----
+* Oracle Cloud Infrastructure Object Storage is used to store all the Static Images uploaded via the application
+* Get started with [Oracle Cloud Infrastructure Object Storage] (https://docs.cloud.oracle.com/iaas/Content/Object/Concepts/objectstorageoverview.htm)
+
+
 #### Create a PAR 
+----
+* A Pre-authenticated Request ( PAR ) allows you to bypass the cumbersome method of API Signing and authentication 
+* Setup PAR for your bucket for both read and write access.
+* Here's the [documentation](https://docs.cloud.oracle.com/iaas/Content/Object/Tasks/usingpreauthenticatedrequests.htm) that tells you how
+
+
 #### Setup Wercker Env Variables
+----
+
+
 ### Deploy & Test Backend API
 #### Deploy Backend API
 #### Test Backend API
@@ -77,14 +95,14 @@ This challenge is to verify your ability to
 
 
 ## What will we Verify here : 
-* Have you successfully deployed the Mongo-DB Cluster using helm status
+* Have you successfully deployed the front end and the backend ?
 * Verify if all Pods are in running state and verify connectivity from within the cluster in MongoDB
 
 ## Submission Format: 
 * A Write Up with 5 Bullet points not exceeding 50 words in each point, about the `learnings while **deploying on Kubernetes**` using `**helm**`. 
 * Send your Email with 
-  * `Subject Line: OCI Challenge-4`  **< Your Name >**
-  * `Email Recepients:` **[Vamsi](mailto:vamsi.ramakrishnan@oracle.com) && [Laksh](mailto:lakshmikanth.vasudevamurthy@oracle.com)**
+  > `Subject Line: OCI Challenge-5` < Your Name > \
+  > `Email Recepients:` [Vamsi](mailto:vamsi.ramakrishnan@oracle.com) && [Laksh](mailto:lakshmikanth.vasudevamurthy@oracle.com)
 
 ## Show me the tutorials 
 * [Further Reading ](https://kubernetes.io/blog/2017/01/running-mongodb-on-kubernetes-with-statefulsets/)
