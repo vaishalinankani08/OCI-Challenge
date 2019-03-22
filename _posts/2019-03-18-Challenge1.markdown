@@ -24,6 +24,45 @@ This challenge is to verify your ability to create IaaS resources such as
 
 * [Oracle Kubernetes Engine](https://cloud.oracle.com/containers/kubernetes-engine)
 
+## Why this Challenge:
+
+## Why this Challenge
+
+<table>
+<thead>
+	<tr>
+		<th>Milestones in Challenges</th>
+		<th>Status</th>
+	</tr>
+</thead>
+<tbody>
+	<tr>
+		<td>You setup the Deployment Environment ( OKE )</td>
+		<td> You are Here </td>
+	</tr>
+	<tr>
+		<td>You moved the repos to the Development Environment ( DevCS )</td>
+		<td> ?? </td>
+	</tr>
+	<tr>
+		<td>You setup the CI/CD pipeline on Wercker / Oracle Container Pipeline</td>
+		<td> ?? </td>
+	</tr>
+	<tr>
+		<td>You prepared the k8s Cluster and installed MongoDB-HA</td>
+		<td> ?? </td>
+	</tr>
+	<tr>
+		<td>You Deployed the Front End and Backend End API</td>
+		<td> ?? </td>
+	</tr>
+	<tr>
+		<td>You Setup Cluster Monitoring</td>
+		<td>??</td>
+	</tr>
+</tbody>
+</table>
+
 ## What will we Verify here : 
 * Have you created a `separate compartment`, and a `user-group` and `user`  with privileges and `policies` to work in only that compartment ?
 >  Why ? Because we don't want you messing with other people's work and vice versa

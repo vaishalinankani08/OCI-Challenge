@@ -24,9 +24,41 @@ This challenge is to verify your ability to use a Cloud Native service like Werc
 * [Oracle Container Pipelines/ Wercker](https://cloud.oracle.com/en_US/containers/pipelines)
 
 ## Why this challenge:
-* You setup the Deployment Environment ( OKE )
-* You moved the repos to the Development Environment ( DevCS )
-* You will setup the CI/CD pipeline on Wercker / Oracle Container Pipeline in this challenge
+
+<table>
+<thead>
+	<tr>
+		<th>Milestones in Challenges</th>
+		<th>Status</th>
+	</tr>
+</thead>
+<tbody>
+	<tr>
+		<td>You setup the Deployment Environment ( OKE )</td>
+		<td> ✔️ </td>
+	</tr>
+	<tr>
+		<td>You moved the repos to the Development Environment ( DevCS )</td>
+		<td> ✔️ </td>
+	</tr>
+	<tr>
+		<td>You setup the CI/CD pipeline on Wercker / Oracle Container Pipeline</td>
+		<td> You are Here </td>
+	</tr>
+	<tr>
+		<td>You prepared the k8s Cluster and installed MongoDB-HA</td>
+		<td> ?? </td>
+	</tr>
+	<tr>
+		<td>You Deployed the Front End and Backend End API</td>
+		<td> ?? </td>
+	</tr>
+	<tr>
+		<td>You Setup Cluster Monitoring</td>
+		<td>??</td>
+	</tr>
+</tbody>
+</table>
 
 ## How do I get started with Wercker
 * Here is a detailed tutorial about how to [get started](https://medium.com/jsonlovesyaml/ci-cd-simplified-with-wercker-kubernetes-on-oracle-cloud-infrastructure-a2332497d36f) with Wercker

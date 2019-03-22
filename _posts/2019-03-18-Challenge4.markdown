@@ -22,10 +22,41 @@ This challenge is to verify your ability to
 * Use this link to understand more about Helm [Helm](https://helm.sh/)
 
 ## Why this challenge:
-* You setup the Deployment Environment ( OKE )
-* You moved the repos to the Development Environment ( DevCS )
-* You setup the CI/CD pipeline on Wercker / Oracle Container Pipeline
-* Prepare the k8s Cluster and install MongoDB-HA
+<table>
+<thead>
+	<tr>
+		<th>Milestones in Challenges</th>
+		<th>Status</th>
+	</tr>
+</thead>
+<tbody>
+	<tr>
+		<td>You setup the Deployment Environment ( OKE )</td>
+		<td> ✔️ </td>
+	</tr>
+	<tr>
+		<td>You moved the repos to the Development Environment ( DevCS )</td>
+		<td> ✔️ </td>
+	</tr>
+	<tr>
+		<td>You setup the CI/CD pipeline on Wercker / Oracle Container Pipeline</td>
+		<td> ✔️ </td>
+	</tr>
+	<tr>
+		<td>You prepared the k8s Cluster and installed MongoDB-HA</td>
+		<td> You are Here️ </td>
+	</tr>
+	<tr>
+		<td>You Deployed the Front End and Backend End API</td>
+		<td> ?? </td>
+	</tr>
+	<tr>
+		<td>You Setup Cluster Monitoring</td>
+		<td>??</td>
+	</tr>
+</tbody>
+</table>
+
 
 ## How do I get started with Helm
 * If you have setup the Kubernetes Cluster successfully, The Server Side of Helm ( Tiller ) comes pre-installed in OKE
