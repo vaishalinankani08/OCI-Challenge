@@ -42,23 +42,23 @@ This challenge is to verify your ability to create IaaS resources such as
 	</tr>
 	<tr>
 		<td>You moved the repos to the Development Environment ( DevCS )</td>
-		<td> ?? </td>
+		<td> ❌ </td>
 	</tr>
 	<tr>
 		<td>You setup the CI/CD pipeline on Wercker / Oracle Container Pipeline</td>
-		<td> ?? </td>
+		<td> ❌ </td>
 	</tr>
 	<tr>
 		<td>You prepared the k8s Cluster and installed MongoDB-HA</td>
-		<td> ?? </td>
+		<td> ❌ </td>
 	</tr>
 	<tr>
 		<td>You Deployed the Front End and Backend End API</td>
-		<td> ?? </td>
+		<td> ❌ </td>
 	</tr>
 	<tr>
 		<td>You Setup Cluster Monitoring</td>
-		<td>??</td>
+		<td>❌</td>
 	</tr>
 </tbody>
 </table>

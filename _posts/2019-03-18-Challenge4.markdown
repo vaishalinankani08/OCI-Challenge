@@ -48,11 +48,11 @@ This challenge is to verify your ability to
 	</tr>
 	<tr>
 		<td>You Deployed the Front End and Backend End API</td>
-		<td> ?? </td>
+		<td> ❌ </td>
 	</tr>
 	<tr>
 		<td>You Setup Cluster Monitoring</td>
-		<td>??</td>
+		<td>❌</td>
 	</tr>
 </tbody>
 </table>

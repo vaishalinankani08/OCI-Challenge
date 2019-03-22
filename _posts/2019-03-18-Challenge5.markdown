@@ -52,7 +52,7 @@ This challenge is to verify your ability to
 	</tr>
 	<tr>
 		<td>You Setup Cluster Monitoring</td>
-		<td>??</td>
+		<td>❌</td>
 	</tr>
 </tbody>
 </table>
