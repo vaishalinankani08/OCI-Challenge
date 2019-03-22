@@ -25,7 +25,7 @@ This entire test is a process of evaluating candidates who have the same passion
 
 The Architecture of the application that will be deployed by the candidate on OCI 
 
-![Application]({{ site.url }}/assets/images/TBP.png)
+![Application](/assets/images/TBP.png)
 
 # Phases 
 The completion of this challenge happens in phases, starting from a simple spinning up of a Kubernetes Cluster in OKE to carving out the entire DevOps Cycle
@@ -34,4 +34,3 @@ The completion of this challenge happens in phases, starting from a simple spinn
 > 1. `Slack` Notifications for Build and Deployment 🏆
 > 2. Setting up of Cluster Monitoring using `Prometheus` and `Grafana` 🏆
 > 3. Scale Kubernetes Cluster using `Slack` 🏆
-
