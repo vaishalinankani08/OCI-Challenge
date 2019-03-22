@@ -25,7 +25,7 @@ This entire test is a process of evaluating candidates who have the same passion
 
 The Architecture of the application that will be deployed by the candidate on OCI 
 
-![Application Architecture]({{ site.url }}/assets/images/TBP.png)
+![Application]({{ site.url }}/assets/images/TBP.png)
 
 # Phases 
 The completion of this challenge happens in phases, starting from a simple spinning up of a Kubernetes Cluster in OKE to carving out the entire DevOps Cycle
