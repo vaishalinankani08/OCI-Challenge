@@ -101,7 +101,7 @@ This challenge is to verify your ability to
 ## Submission Format: 
 * A Write Up with 5 Bullet points not exceeding 50 words in each point, about the `learnings while **deploying on Kubernetes**` using `**helm**`. 
 * Send your Email with 
-  > `Subject Line: OCI Challenge-5` < Your Name > \
+  > `Subject Line: OCI Challenge-5` < Your Name > 
   > `Email Recepients:` [Vamsi](mailto:vamsi.ramakrishnan@oracle.com) && [Laksh](mailto:lakshmikanth.vasudevamurthy@oracle.com)
 
 ## Show me the tutorials 

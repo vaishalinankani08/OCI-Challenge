@@ -5,8 +5,6 @@ date:   2019-03-22 17:30:02 +0530
 categories: oracle cloud infrastructure
 ---
 
-
-
 Create your OCI Account
 -------------------------
 You would have to create / obtain credentials for an `Oracle Cloud Infrastructure Account`
@@ -25,6 +23,12 @@ If you have trouble in setting it up
 
 > **Contact**: Vamsi Ramakrishnan  \\
 > **Email**: (mailto:vamsi.ramakrishnan@oracle.com)
+
+Other Handy Tools 
+---------
+* If you have a windows laptop, setting up everything could be a pain
+* Try using **WSL-Windows Subsystem for Linux**
+* Check this link out [Setup Windows Subsystem for Linux](https://medium.com/jsonlovesyaml/why-you-dont-need-a-vm-to-run-linux-on-windows-anymore-d67e8dc2bed0) 
 
 Checkout the Viewing Page 
 ---------
