@@ -10,15 +10,10 @@ About this Challenge
 
 ![useful image]({{ site.url }}/Images/Helm.png)
 This challenge is to verify your ability to 
-* Use Helm 
-* Deploy a MongoDB StatefulSet Chart
-* Create a HA Mongo DB cluster
+* Setup the Wercker ENV Variables to actually deploy the Front End and Backend
+* Commit Changes to the Readme Files and verify if the deployment gets updated on the Kubernetes Cluster
 
 ---
-
-## About Helm
-* Helm helps you manage Kubernetes applications — Helm Charts help you define, install, and upgrade even the most complex Kubernetes application.
-* Use this link to understand more about Helm [Helm](https://helm.sh/)
 
 ## Why this challenge:
 
@@ -57,50 +52,28 @@ This challenge is to verify your ability to
 </tbody>
 </table>
 
+-------------------------
+
+## How do I get started with this challenges
+### Setup Pre-requisites
+#### Setup Object Storage
+#### Create a PAR 
+#### Setup Wercker Env Variables
+### Deploy & Test Backend API
+#### Deploy Backend API
+#### Test Backend API
+#### Update Wercker Env Variables
+### Deploy and Test Frontend API
+#### Deploy Frontend 
+#### Test Frontend 
+
+----------------------
+
+## Get the app functionality tested
 
 
 
-## How do I get started with Helm
-* If you have setup the Kubernetes Cluster successfully, The Server Side of Helm ( Tiller ) comes pre-installed in OKE
 
-### To setup the Client Side of Helm, 
-* Setup chocolatey on your `Windows` laptop. For `Mac and Linux` Skip this step
-* Install Chocolatey by running this on PowerShell as an admin
-
-    ~~~~~~~ powershell
-    @"%SystemRoot%\System32\WindowsPowerShell\v1.0\powershell.exe" -NoProfile -InputFormat None -ExecutionPolicy Bypass -Command "iex ((New-Object System.Net.WebClient).DownloadString('https://chocolatey.org/install.ps1'))" && SET "PATH=%PATH%;%ALLUSERSPROFILE%\chocolatey\bin"
-    ~~~~~~~
-
-* Setup Kubernetes-cli by running this command
-
-    ~~~~~~~~~ powershell
-    choco install kubernetes-cli
-    ~~~~~~~~~
-
-* Copy the `KUBECONFIG` file to the required location
-* Setup Helm Client by running this command
-
-    ~~~~~~~~~ powershell
-    choco install kubernetes-helm
-    ~~~~~~~~~
-
-* Run 
-
-    ~~~~~~~~~ powershell
-    helm init 
-    ~~~~~~~~~
-* If Helm is successfully setup without errors you are now free to deploy the MongoDB Chart
-
-## Deploy MongoDB-HA
-
-### Create namespace
-
-    kubectl create namespace <Your FirstName>
-
-### Deploy code
-    
-    helm repo add stable https://kubernetes-charts.storage.googleapis.com/
-    helm install --name <Your LastName> --namespace <Your FirstName> stable/mongodb-replicaset
 
 ## What will we Verify here : 
 * Have you successfully deployed the Mongo-DB Cluster using helm status
