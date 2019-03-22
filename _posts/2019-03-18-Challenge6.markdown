@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Challenge-5 - Prepare Cluster for Deployment and Install the Database layer"
+title:  "Challenge-6 - Setup Cluster Monitoring using Prometheus & Grafana"
 date:   2019-03-18 20:09:02 +0530
 categories: oracle cloud infrastructure
 ---
