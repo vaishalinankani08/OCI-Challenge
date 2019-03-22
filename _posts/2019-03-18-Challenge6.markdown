@@ -7,18 +7,23 @@ categories: oracle cloud infrastructure
 
 About this Challenge
 ---
+![Cluster Monitoring](https://logz.io/wp-content/uploads/2017/03/prometheus-monitoring-1.jpg)
 
-![useful image]({{ site.url }}/Images/Helm.png)
 This challenge is to verify your ability to 
-* Use Helm 
-* Deploy a MongoDB StatefulSet Chart
-* Create a HA Mongo DB cluster
+* Use Helm to Deploy Prometheus and Grafana to setup Kubernetes Cluster Monitoring
+* Show a dashboard along with alerts on Slack whenever a metric crosses threshold
+
 
 ---
 
-## About Helm
-* Helm helps you manage Kubernetes applications — Helm Charts help you define, install, and upgrade even the most complex Kubernetes application.
-* Use this link to understand more about Helm [Helm](https://helm.sh/)
+## About Prometheus
+* Prometheus is an open-source systems monitoring and alerting specializing in Time Series Data
+* Prometheus scrapes your Kubernetes Cluster Metrics and stores this information in Memory/ in Disk
+* Use this link to understand more about  [Prometheus](https://prometheus.io/docs/introduction/overview/)
+
+## About Grafana
+* Grafana is an open source platform for Time Series Analytics 
+* Use this link to understand more about  [Grafana](http://docs.grafana.org/)
 
 ## Why this challenge:
 | Milestones in Challenges                 |Status    |
@@ -27,14 +32,17 @@ This challenge is to verify your ability to
 | You moved the repos to the Development Environment ( DevCS )  | ✔️           |
 | You setup the CI/CD pipeline on Wercker / Oracle Container Pipeline  | ✔️           |
 | You prepared the k8s Cluster and installed MongoDB-HA  | ✔️           |
-| You will deploy the frontend and backend API as the final stage | You are Here |
+| You deployed the Front End React Application and the Backend API layer | ✔️ |
+| You will setup Cluster Monitoring and Dashboarding with Prometheus and Grafana | You are Here |  
 
 ## How do I get started with Helm
 * If you have setup the Kubernetes Cluster successfully, The Server Side of Helm ( Tiller ) comes pre-installed in OKE
 
 ### To setup the Client Side of Helm, 
 * Setup chocolatey on your `Windows` laptop. For `Mac and Linux` Skip this step
-* Install Chocolatey by running this on PowerShell as an admin
+* Install Chocolatey by running this on
+PowerShell as an admin
+
     ~~~~~~~ powershell
     @"%SystemRoot%\System32\WindowsPowerShell\v1.0\powershell.exe" -NoProfile -InputFormat None -ExecutionPolicy Bypass -Command "iex ((New-Object System.Net.WebClient).DownloadString('https://chocolatey.org/install.ps1'))" && SET "PATH=%PATH%;%ALLUSERSPROFILE%\chocolatey\bin"
     ~~~~~~~
