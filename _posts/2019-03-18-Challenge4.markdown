@@ -7,14 +7,13 @@ categories: oracle cloud infrastructure
 
 About this challenge
 ---
-
-![Helm](https://helm.sh/src/img/chart-illustration.png)
-
 This challenge is to verify your ability to 
 * Use Helm 
 * Deploy a MongoDB StatefulSet Chart
 * Create a HA Mongo DB cluster
 <!--more-->
+![Helm](https://helm.sh/src/img/chart-illustration.png)
+
 ---
 
 ## About Helm

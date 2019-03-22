@@ -8,8 +8,6 @@ categories: oci
 
 About the Challenge
 ---
-
-
 This challenge is to verify your ability to create IaaS resources such as
 * A managed Kubernetes Service
 * Create Network & Firewall policies if required

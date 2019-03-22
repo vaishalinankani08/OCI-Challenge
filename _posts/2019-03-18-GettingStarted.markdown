@@ -5,7 +5,7 @@ date:   2019-03-22 17:30:02 +0530
 categories: oracle cloud infrastructure
 ---
 
-![Oracle Cloud Infrastructure](https://cloud.oracle.com/opc/images/promo-why-cloud-1.jpg)
+
 
 Create your OCI Account
 -------------------------
@@ -18,6 +18,8 @@ Go to this Link to get your free Oracle Cloud Account for 30 days
 > [**Sign Up !**](https://cloud.oracle.com/tryit)
 
 <!--more-->
+
+![Oracle Cloud Infrastructure](https://cloud.oracle.com/opc/images/promo-why-cloud-1.jpg)
 
 If you have trouble in setting it up 
 

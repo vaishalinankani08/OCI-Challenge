@@ -8,11 +8,11 @@ categories: oracle cloud infrastructure
 About this Challenge
 ---
 
-![useful image]({{ site.url }}/assets/images/Helm.png)
 This challenge is to verify your ability to 
 * Setup the Wercker ENV Variables to actually deploy the Front End and Backend
 * Commit Changes to the Readme Files and verify if the deployment gets updated on the Kubernetes Cluster
 <!--more-->
+![useful image]({{ site.url }}/assets/images/Helm.png)
 ---
 
 

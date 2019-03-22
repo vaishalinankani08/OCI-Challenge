@@ -7,12 +7,11 @@ categories: oci
 
 About this Challenge
 ---
-![Cluster Monitoring](https://logz.io/wp-content/uploads/2017/03/prometheus-monitoring-1.jpg)
 
 This challenge is to verify your ability to 
 * Use Helm to Deploy Prometheus and Grafana to setup Kubernetes Cluster Monitoring
 * Show a dashboard along with alerts on Slack whenever a metric crosses threshold
-
+![Cluster Monitoring](https://logz.io/wp-content/uploads/2017/03/prometheus-monitoring-1.jpg)
 <!--more-->
 ---
 
