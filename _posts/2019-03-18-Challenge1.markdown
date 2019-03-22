@@ -15,7 +15,7 @@ This challenge is to verify your ability to create IaaS resources such as
 * Create Network & Firewall policies if required
 * Ability to create Users, Compartments, Groups
 * Apply Basic Principles of IAM and create access privileges
-
+<!--more-->
 --------------------------------
 
 ## About OKE 

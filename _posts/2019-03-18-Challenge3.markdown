@@ -17,7 +17,7 @@ This challenge is to verify your ability to use a Cloud Native service like Werc
 * Import Applications
 * Create Team members with access privileges
 * Configure Workflows, Pipelines and Steps
-
+<!--more-->
 ---
 
 ## About Wercker/Oracle Container Pipelines 

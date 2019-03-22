@@ -17,6 +17,8 @@ Go to this Link to get your free Oracle Cloud Account for 30 days
 
 > [**Sign Up !**](https://cloud.oracle.com/tryit)
 
+<!--more-->
+
 If you have trouble in setting it up 
 
 > **Contact**: Vamsi Ramakrishnan  \\
@@ -28,7 +30,9 @@ Checkout the Viewing Page
 
 Challenges
 ---
-* ### The challenges are blog posts in the home page that outline
+Challenges are individual steps executed sequentially to reach the end goal.
+You Fininishing the challenge helps us assess your skill levels 
+* ## Challenge Format
     * #### What needs to be done
     * #### What we intend to evaluate 
     * #### How we recommend you submit your artifacts for review

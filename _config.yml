@@ -21,6 +21,8 @@ url: # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: mrvemzi
 github_username:  vamsiramakrishnan
 linkedin_username: vamsiramakrishnan
+show_excerpts: true
+excerpt_separator: <!--more-->
 header_pages:
   - about.md
   - index.md

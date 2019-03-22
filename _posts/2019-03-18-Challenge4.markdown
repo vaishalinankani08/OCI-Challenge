@@ -14,7 +14,7 @@ This challenge is to verify your ability to
 * Use Helm 
 * Deploy a MongoDB StatefulSet Chart
 * Create a HA Mongo DB cluster
-
+<!--more-->
 ---
 
 ## About Helm

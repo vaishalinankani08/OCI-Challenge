@@ -13,7 +13,7 @@ This challenge is to verify your ability to
 * Use Helm to Deploy Prometheus and Grafana to setup Kubernetes Cluster Monitoring
 * Show a dashboard along with alerts on Slack whenever a metric crosses threshold
 
-
+<!--more-->
 ---
 
 ## About Prometheus

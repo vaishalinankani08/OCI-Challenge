@@ -11,7 +11,7 @@ About the Challenge
 This challenge is to verify your ability to create a PaaS service like Developer Cloud Service 
 * Ability to import a Github repo
 * Add teammates to your project and give them read-only access
-
+<!--more-->
 -------------------
 
 
