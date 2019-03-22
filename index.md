@@ -14,7 +14,15 @@ Oracle's Second Generation Cloud Infrastructure Truly Built for the Enterprise. 
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
 # Purpose
-This is a static site to help candidates to get information on the OCI Challenge under one roof. It contains Videos | Photos | Documents | Instructions | Manuals to help candidates crack the challenge. All the best. Read on. 
+This is a static site to help candidates to get information on the OCI Challenge under one roof. It contains
+
+> Videos \\
+> Photos \\
+> Documents \\
+> Instructions \\
+> Manuals 
+
+to help candidates crack the challenge. All the best. Read on. 
 
 # The Big Picture
 
