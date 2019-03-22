@@ -8,7 +8,8 @@ categories: oracle cloud infrastructure
 About this challenge
 ---
 
-![useful image]({{ site.url }}/Images/Helm.png)
+![Helm](https://helm.sh/src/img/chart-illustration.png)
+
 This challenge is to verify your ability to 
 * Use Helm 
 * Deploy a MongoDB StatefulSet Chart

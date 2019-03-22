@@ -21,10 +21,12 @@ This challenge is to verify your ability to
 * Use this link to understand more about Helm [Helm](https://helm.sh/)
 
 ## Why this challenge:
-* You setup the Deployment Environment ( OKE )
-* You moved the repos to the Development Environment ( DevCS )
-* You setup the CI/CD pipeline on Wercker / Oracle Container Pipeline
-* Prepare the k8s Cluster and install MongoDB-HA
+| Milestones in Challenges                 |  Status     |
+|------------------------------------------|--------------|
+|  You setup the Deployment Environment ( OKE )  | ✔️           |
+| You moved the repos to the Development Environment ( DevCS )  | ✔️           |
+| You setup the CI/CD pipeline on Wercker / Oracle Container Pipeline  | ✔️           |
+| You prepared the k8s Cluster and installed MongoDB-HA  | You are here           |
 
 ## How do I get started with Helm
 * If you have setup the Kubernetes Cluster successfully, The Server Side of Helm ( Tiller ) comes pre-installed in OKE
@@ -32,6 +34,7 @@ This challenge is to verify your ability to
 ### To setup the Client Side of Helm, 
 * Setup chocolatey on your `Windows` laptop. For `Mac and Linux` Skip this step
 * Install Chocolatey by running this on PowerShell as an admin
+
     ~~~~~~~ powershell
     @"%SystemRoot%\System32\WindowsPowerShell\v1.0\powershell.exe" -NoProfile -InputFormat None -ExecutionPolicy Bypass -Command "iex ((New-Object System.Net.WebClient).DownloadString('https://chocolatey.org/install.ps1'))" && SET "PATH=%PATH%;%ALLUSERSPROFILE%\chocolatey\bin"
     ~~~~~~~

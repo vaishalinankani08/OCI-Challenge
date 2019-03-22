@@ -5,8 +5,10 @@ description: A series of tests to prove your worthiness to work with a True Ente
 ---
 
 
-
 # About OCI
+
+![OCI](https://cdn.app.compendium.com/uploads/user/e7c690e8-6ff9-102a-ac6d-e4aebca50425/eb7158e6-28f9-4c69-9345-c2ca751a5b00/File/9812de3c82a4dd3466ca1a36e2ea7432/oci_blog_feature.jpg)
+
 OCI stands for Oracle Cloud Infrastructure, 
 Oracle's Second Generation Cloud Infrastructure Truly Built for the Enterprise. Oracle Cloud Infrastructure was built from the ground up to perform better and more consistently than the competition, while costing less at scale. 
 
