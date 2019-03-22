@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Getting Started - Everything you need to know "
-date:   2019-03-22 20:09:02 +0530
+date:   2019-03-22 17:30:02 +0530
 categories: oracle cloud infrastructure
 ---
 ![Oracle Cloud Infrastructure](https://cloud.oracle.com/opc/images/promo-why-cloud-1.jpg)
