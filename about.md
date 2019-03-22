@@ -11,10 +11,12 @@ permalink: /about/
 
 ## We could still do Email
 
-* Vamsi Ramakrishnan \
-    `<vamsi.ramakrishnan@oracle.com>
-* Lakshmikanth Vasudevamurthy \
-    `<lakshmikanth.vasudevamurthy@oracle.com>
+> Vamsi Ramakrishnan \\
+> <vamsi.ramakrishnan@oracle.com> \\
+
+
+> Lakshmikanth Vasudevamurthy \\ 
+> <lakshmikanth.vasudevamurthy@oracle.com>
     
 
 
