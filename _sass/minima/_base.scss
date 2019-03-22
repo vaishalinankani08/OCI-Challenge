@@ -125,53 +125,26 @@ a {
 }
 
 
-/** Blockquotes */
-blockquote {
-  border-left: 4px solid #00CC8F;
-  color: #1a1a1a;
-  font-family: Georgia, Times, "Futura PT Light", serif;
-  font-size: 1.25em;
-  font-style: italic;
-  line-height: 1.8em;
-  margin: 1.1em -4em;
-  padding: 1em 2em;
-  position: relative;
-  z-index: 0;
+/**
+ * Blockquotes
+ */
+ blockquote {
+  background: #f9f9f9;
+  border-left: 10px solid #ccc;
+  margin: 1.5em 10px;
+  padding: 0.5em 10px;
+  quotes: "\201C""\201D""\2018""\2019";
 }
 blockquote:before {
-  content: "";
-  position: absolute;
-  top: 50%;
-  left: -1em;
-  height: 2em;
-  background-color: #fff;
-  border-radius: 50%;
-  width: 2em;
-  margin-top: -1em;
+  color: #ccc;
+  content: open-quote;
+  font-size: 4em;
+  line-height: 0.1em;
+  margin-right: 0.25em;
+  vertical-align: -0.4em;
 }
-blockquote:after {
-  content: "ï͟";
-  position: absolute;
-  top: 50%;
-  left: calc(-0.5em - 2px);
-  color: #00CC8F;
-  font-family: "Ionicons";
-  font-size: 1.15em;
-  font-style: normal;
-  line-height: 1em;
-  text-align: center;
-  width: 1em;
-  margin-top: -0.5em;
-  transition: 0.5s all ease-in-out;
-}
-blockquote:active:after {
-  transform: rotateY(360deg);
-}
-blockquote cite {
-  display: block;
-  font-size: 0.75em;
-  line-height: 1.8em;
-  margin-top: 1em;
+blockquote p {
+  display: inline;
 }
 
 
