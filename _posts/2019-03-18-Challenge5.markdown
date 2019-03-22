@@ -21,17 +21,42 @@ This challenge is to verify your ability to
 * Use this link to understand more about Helm [Helm](https://helm.sh/)
 
 ## Why this challenge:
-+---------------------------------------------------------------------+--------------+
-| Milestones in Challenges                                            | Status       |
-+=====================================================================+==============+
-| You setup the Deployment Environment ( OKE )                        |  ✔️           |
-+---------------------------------------------------------------------+--------------+
-| You moved the repos to the Development Environment ( DevCS )        |  ✔️           |
-+---------------------------------------------------------------------+--------------+
-| You setup the CI/CD pipeline on Wercker / Oracle Container Pipeline |  ✔️           |
-+---------------------------------------------------------------------+--------------+
-| You prepared the k8s Cluster and installed MongoDB-HA               | You are here |
-+---------------------------------------------------------------------+--------------+
+
+<table>
+<thead>
+	<tr>
+		<th>Milestones in Challenges</th>
+		<th>Status</th>
+	</tr>
+</thead>
+<tbody>
+	<tr>
+		<td>You setup the Deployment Environment ( OKE )</td>
+		<td> ✔️ </td>
+	</tr>
+	<tr>
+		<td>You moved the repos to the Development Environment ( DevCS )</td>
+		<td> ✔️ </td>
+	</tr>
+	<tr>
+		<td>You setup the CI/CD pipeline on Wercker / Oracle Container Pipeline</td>
+		<td> ✔️ </td>
+	</tr>
+	<tr>
+		<td>You prepared the k8s Cluster and installed MongoDB-HA</td>
+		<td> ✔️ </td>
+	</tr>
+	<tr>
+		<td>You Deployed the Front End and Backend End API</td>
+		<td> You are Here</td>
+	</tr>
+	<tr>
+		<td>You Setup Cluster Monitoring</td>
+		<td>??</td>
+	</tr>
+</tbody>
+</table>
+
 
 
 
