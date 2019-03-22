@@ -92,11 +92,11 @@ body {
   font-size: 100%;
 }
 
-body, caption, th, td, input, textarea, select, option, legend, fieldset, h1, h2, h3, h4, h5, h6 {
+body, caption, th, td, input, p, select, option, legend, fieldset, h1, h2, h3, h4, h5, h6 {
   font-size-adjust: 0.5;
 }
 
-#page {
+page {
   font-size: 1.5em;
   /* equivalent to 16px */
   line-height: 1.25;
@@ -192,6 +192,20 @@ h4 {
   h4 {
     line-height: 1.22222222;
     /* (22px / 18px */
+  }
+}
+
+
+p {
+  font-size: 1.125em;
+  /* 1.125x body copy size = 20px */
+  line-height: 1.11111111;
+}
+
+@media (min-width: 43.75em) {
+  p {
+    line-height: 1.22222222;
+    /* (22px / 20px */
   }
 }
 
