@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Challenge-3 - Create Wercker / Oracle Container Pipeline Environment"
-date:   2019-03-18 20:09:02 +0530
-categories: oracle cloud infrastructure
+date:   2019-03-20 20:09:02 +0530
+categories: oci
 ---
 
 About this challenge

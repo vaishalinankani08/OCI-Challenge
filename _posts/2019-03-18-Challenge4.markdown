@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Challenge-4 - Prepare Cluster for Deployment and Install the Database layer"
-date:   2019-03-18 20:09:02 +0530
+date:   2019-03-19 20:09:02 +0530
 categories: oracle cloud infrastructure
 ---
 

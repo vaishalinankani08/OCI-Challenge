@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Challenge-2 - Move the public Github Repos to OCI - Developer Cloud Service"
-date:   2019-03-18 20:09:02 +0530
-categories: oracle cloud infrastructure
+date:   2019-03-21 20:09:02 +0530
+categories: oci
 ---
 
 
