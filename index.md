@@ -21,7 +21,7 @@ This entire test is a process of evaluating candidates who have the same passion
 
 > Building great Cloud Native Innovation. Scaling it reliably for the Enterprise. 
 
-![](Images/OracleCloudNative.png)
+![](/assets/Images/OracleCloudNative.png)
 
 The Architecture of the application that will be deployed by the candidate on OCI 
 
@@ -30,7 +30,7 @@ The Architecture of the application that will be deployed by the candidate on OC
 # Phases 
 The completion of this challenge happens in phases, starting from a simple spinning up of a Kubernetes Cluster in OKE to carving out the entire DevOps Cycle
 > There is a bonus challenge which involves setting up of 
-    * Slack Notifications for Build and Deployment
-    * Setting up of Cluster Monitoring using `Prometheus` and `Grafana`
-    * Chat Ops using `Slack`
+>   > Slack Notifications for Build and Deployment
+>   > Setting up of Cluster Monitoring using `Prometheus` and `Grafana`
+>   > Chat Ops using `Slack`
 
