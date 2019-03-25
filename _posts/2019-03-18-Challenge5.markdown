@@ -116,9 +116,13 @@ This challenge is to verify your ability to
 
 ### Deploy & Test Backend API
 ------
-* Update Readme.md to trigger a build
+* Update Readme.md to trigger a build, it should pass through three phases in Wercker before `Kubernetes Deploy` gets invoked and the actual deployment happens
+
+* Once the deployment is successful, you should be able to see `Pods`, `ReplicaSets`,`Deployments`, `Services`. 
 
         kubectl -n <YOUR NAMESPACE> get all
+
+* The service exposes the Backend API via a Load Balancer , which gets automatically spun up in the OCI environment and the External IP would reflect. 
 
 * Use Postman to Test the Backend API
 
@@ -129,7 +133,7 @@ This challenge is to verify your ability to
         
         kubectl -n <YOUR NAMESPACE> get services
         
-> **POST** *{{hosturl}}*/users/register
+> POST {{hosturl}}/users/register
 
 **<u>Parameters to be passed in the body</u>**
 
