@@ -150,23 +150,32 @@ This challenge is to verify your ability to
         loginCount:0
 
 ### Deploy and Test Frontend API
+* If the backend is functional and you get a positive response on postman, you are all set to deploy the front end. 
+
+        1. Go to config.js
+        2. Edit the API Server URL(*Load Balancer IP*)
+        3. Object Storage URL ( Used to render Stored images in newsfeed - *Use the PAR URL* )
+        4. Object Storage Read URL ( *Use the PAR URL* )
+
 #### Deploy Frontend 
-#### Test Frontend 
+* Trigger a deployment once all these parametes have been set.
+* The frontend is a react App that is heavy and takes a while to build and deploy, so get it right the first time to avoid iterative delays
+* Once the deployment is done on Wercker run the following command
+
+        kubectl -n <YOUR NAMESPACE> get services
+        
+* Get the frontend External IP which we will use to test if the homepage is loading.
 
 ----------------------
 
-## Get the app functionality tested
-
-
-
-
-
 ## What will we Verify here : 
 * Have you successfully deployed the front end and the backend ?
+* Test the backend URL and run sample API queries
+* Open the frontend URL and check if the welcome page is loading
 * Verify if all Pods are in running state and verify connectivity from within the cluster in MongoDB
 
 ## Submission Format: 
-* A Write Up with 5 Bullet points not exceeding 50 words in each point, about the `learnings while **deploying on Kubernetes**` using `**helm**`. 
+* A Write Up with 5 Bullet points not exceeding 50 words in each point, about the `learnings while **deploying the Front End , backend and debugging **` using `**Wercker**`. 
 * Send your Email with 
   > `Subject Line: OCI Challenge-5` < Your Name > 
   > `Email Recepients:` [Vamsi](mailto:vamsi.ramakrishnan@oracle.com) && [Laksh](mailto:lakshmikanth.vasudevamurthy@oracle.com)
