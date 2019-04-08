@@ -84,35 +84,41 @@ This challenge is to verify your ability to
 
 <u>**Backend API Environment Variables**</u>
 
-	DOCKER_USERNAME="" 
-	DOCKER_PASSWORD="" 
-	DOCKER_HUB_ADDRESS="" 
-	REPO_ADDRESS=""
-	MONGO_URI=""
+	APP_NAME=""
+	OCIR_SECRET_NAME="" eg. Secret Name for pulling image from private registry
+	CONTAINER_REGISTRY_USERNAME ="" 
+	API_USER_TOKEN="" 
+	PRIVATE_REGISTRY_PATH="" - eg. docker.io / 
+	REPO_NAME="" 
 	KUBE_ENDPOINT=""
 	KUBE_USER=""
 	KUBE_CONTEXT=""
 	KUBE_USER_TOKEN=""
 	KUBE_ENDPOINT_CERT_AUTH=""
-	JWT=""
 	K8SNAMESPACE=""
 	SLACK_URL=""
 	SLACK_CHANNEL=""
-	API_USER_TOKEN=""
+	TENANCY_NAME=""
+	JWT=""
+	MONGO_URI=""
 
 <u>**Frontend Environment Variables**</u>
 
-    DOCKER_HUB_ADDRESS=""
-    IMAGE_NAME=""
-    DOCKER_USERNAME=""
-    DOCKER_PASSWORD=""
-    K8SNAMESPACE=""
-    REPO_ADDRESS=""
-    SLACK_URL=""
-    SLACK_CHANNEL=""
-    KUBE_ENDPOINT=""
-    KUBE_USER_TOKEN=""
-    APP_NAME=""
+	APP_NAME=""
+	OCIR_SECRET_NAME="" eg. Secret Name for pulling image from private registry
+	CONTAINER_REGISTRY_USERNAME ="" 
+	API_USER_TOKEN="" 
+	PRIVATE_REGISTRY_PATH="" - eg. docker.io / 
+	REPO_NAME="" 
+	KUBE_ENDPOINT=""
+	KUBE_USER=""
+	KUBE_CONTEXT=""
+	KUBE_USER_TOKEN=""
+	KUBE_ENDPOINT_CERT_AUTH=""
+	K8SNAMESPACE=""
+	SLACK_URL=""
+	SLACK_CHANNEL=""
+	TENANCY_NAME=""
 
 ### Deploy & Test Backend API
 ------
