@@ -28,6 +28,7 @@ header_pages:
   - index.md
   - videos.md
   - reading.md
+  - https://vamsiramakrishnan.github.io/jsonlovesyaml
 
 defaults:
   - scope:
