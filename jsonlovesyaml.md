@@ -5,4 +5,4 @@ permalink: "/jsonlovesyaml"
 ---
 
 # Go Back to Blog 
-> "https://vamsiramakrishnan.github.io/jsonlovesyaml"
+> [JSON❤️YAML](https://vamsiramakrishnan.github.io/jsonlovesyaml)
