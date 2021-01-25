@@ -57,8 +57,8 @@ This challenge is to verify your ability to create a PaaS service like Developer
 </table>
 
 ## Where are the repositories:
-* [FrontEnd](https://github.com/vamsiramakrishnan/ora-se-symposium-frontend)
-* [API/Backend](https://github.com/vamsiramakrishnan/ora-se-symposium-backend)
+* [FrontEnd](https://github.com/vaishalinankani08/ora-se-symposium-frontend)
+* [API/Backend](https://github.com/vaishalinankani08/ora-se-symposium-backend)
 
 ## What about the Database
 * The Database is a **<u>MongoDB</u>** Database which does not need to have any data on it. The application automatically configures it. 
