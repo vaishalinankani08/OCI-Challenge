@@ -70,14 +70,14 @@ This challenge is to verify your ability to use a Cloud Native service like Werc
 ## What will we Verify here : 
 * Have you setup the Build and Deployment Pipeline as described in the `Wercker.yml` file
 * Provide Read-Only Access to as Team members
-  * **Vamsi : vamsi.ramakrishnan@oracle.com**
+  * **Vaishali : vaishali.nankani@oracle.com**
   * **Laksh : lakshmikanth.vasudevamurthy@oracle.com**
 
 ## Submission Format: 
 * A Write Up with 5 Bullet points not exceeding 50 words in each point, about the `Key Differentiation factors` of `Oracle Container Pipeline/Wercker`
 * Send your Email with 
   * `Subject Line: OCI Challenge-3`  **< Your Name >**
-  * `Email Recepients:` **[Vamsi](mailto:vamsi.ramakrishnan@oracle.com) && [Laksh](mailto:lakshmikanth.vasudevamurthy@oracle.com)**
+  * `Email Recepients:` **[Vaishali](mailto:vaishali.nankani@oracle.com) && [Laksh](mailto:lakshmikanth.vasudevamurthy@oracle.com)**
 
 ## Show me the tutorials 
 * [Getting Started with Wercker/Oracle Container Pipelines](https://devcenter.wercker.com/introductions/)

@@ -21,8 +21,8 @@ Go to this Link to get your free Oracle Cloud Account for 30 days
 
 If you have trouble in setting it up 
 
-> **Contact**: Vamsi Ramakrishnan  \\
-> **Email**: (mailto:vamsi.ramakrishnan@oracle.com)
+> **Contact**: Vaishali Nankani  \\
+> **Email**: (mailto:vaishali.nankani@oracle.com)
 
 Other Handy Tools 
 ---------

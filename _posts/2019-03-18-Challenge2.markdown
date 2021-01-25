@@ -84,9 +84,9 @@ This challenge is to verify your ability to create a PaaS service like Developer
 * A Write Up with 5 Bullet points not exceeding 50 words in each point, about the `Key Differentiation factors` of `Oracle Developer Cloud Service`
 * Send your Email with 
   * `Subject Line: OCI Challenge-2 | < Your Name >`
-  * `Email Recepients:` **[Vamsi](mailto:vamsi.ramakrishnan@oracle.com) && [Laksh](mailto:lakshmikanth.vasudevamurthy@oracle.com)**
+  * `Email Recepients:` **[Vaishali](mailto:vaishali.nankani@oracle.com) && [Laksh](mailto:lakshmikanth.vasudevamurthy@oracle.com)**
 * Provide `Read-Only Access` for your Developer Cloud Service Git Repos in
-  * Vamsi : vamsi.ramakrishnan@oracle.com**
+  * Vaishali : vaishali.nankani@oracle.com**
   * Laksh : lakshmikanth.vasudevamurthy@oracle.com**
 
 ## Show me the tutorials 

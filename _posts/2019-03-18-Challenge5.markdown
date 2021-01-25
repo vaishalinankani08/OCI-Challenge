@@ -143,10 +143,10 @@ This challenge is to verify your ability to
 
 **<u>Parameters to be passed in the body</u>**
 
-        username: vamsi.ramakrishnan
-        password:vamsi4390
-        firstName:Vamsi
-        lastName:Ramakrishnan
+        username: vaishali.nankani
+        password: Vaishali4390
+        firstName:Vaishali
+        lastName:Nankani
         designation:Cloud SE
         department:Oracle
         location:NA
@@ -184,7 +184,7 @@ This challenge is to verify your ability to
 * A Write Up with 5 Bullet points not exceeding 50 words in each point, about the `learnings while **deploying the Front End , backend and debugging **` using `**Wercker**`. 
 * Send your Email with 
   > `Subject Line: OCI Challenge-5` < Your Name > 
-  > `Email Recepients:` [Vamsi](mailto:vamsi.ramakrishnan@oracle.com) && [Laksh](mailto:lakshmikanth.vasudevamurthy@oracle.com)
+  > `Email Recepients:` [Vaishali](mailto:vaishali.nankani@oracle.com) && [Laksh](mailto:lakshmikanth.vasudevamurthy@oracle.com)
 
 ## Show me the tutorials 
 * [Further Reading ](https://kubernetes.io/blog/2017/01/running-mongodb-on-kubernetes-with-statefulsets/)

@@ -77,7 +77,7 @@ This challenge is to verify your ability to
 * What are your learnings about the prometheus and grafana ecosystem 
 * Send your Email with 
   * `Subject Line: OCI Challenge-6`  **< Your Name >**
-  * `Email Recepients:` **[Vamsi](mailto:vamsi.ramakrishnan@oracle.com) && [Laksh](mailto:lakshmikanth.vasudevamurthy@oracle.com)**
+  * `Email Recepients:` **[Vaishali](mailto:vaishali.nankani@oracle.com) && [Laksh](mailto:lakshmikanth.vasudevamurthy@oracle.com)**
 
 ## Show me the tutorials 
 * [Further Reading ](https://kubernetes.io/blog/2017/01/running-mongodb-on-kubernetes-with-statefulsets/)

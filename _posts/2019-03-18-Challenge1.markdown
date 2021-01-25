@@ -72,7 +72,7 @@ This challenge is to verify your ability to create IaaS resources such as
 * A Write Up with 5 Bullet points not exceeding 50 words in each point, about the Key Differentiation factors of Oracle Kubernetes engine over AKS and EKS
 * Send your Email with 
   * `Subject Line: OCI Challenge-1`  **< Your Name >**
-  * `Email Recepients:` **[Vamsi](mailto:vamsi.ramakrishnan@oracle.com) && [Laksh](mailto:lakshmikanth.vasudevamurthy@oracle.com)**
+  * `Email Recepients:` **[Vaishali](mailto:vaishali.nankani@oracle.com) && [Laksh](mailto:lakshmikanth.vasudevamurthy@oracle.com)**
 
 ## Show me the Tutorials: 
 * [Setup an Oracle Kubernetes Cluster](https://www.oracle.com/webfolder/technetwork/tutorials/obe/oci/oke-full/index.html)

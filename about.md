@@ -11,8 +11,8 @@ permalink: /about/
 
 ## We could still do Email
 
-> Vamsi Ramakrishnan \\
-> <vamsi.ramakrishnan@oracle.com> 
+> Vaishali Nankani \\
+> <vaishali.nankani@oracle.com> 
 
 
 > Lakshmikanth Vasudevamurthy \\ 
